@@ -23,7 +23,7 @@ JavaScript
 
 Google Fonts
 
-🧁 Author:
+🧁 Author:Anirban Chattaraj
 
 Candy Kids Land Project — 2025
 
